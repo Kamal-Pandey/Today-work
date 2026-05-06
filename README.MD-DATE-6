@@ -1,0 +1,72 @@
+# 🚀 Advisory Hub – UI Planning & Analysis
+
+## 📌 Overview
+This repository documents the initial phase of UI development for the Advisory Hub platform, focusing on client requirement analysis, estimation, and understanding the existing codebase.
+
+---
+
+## ✅ Work Done
+
+### 🟦 Client Structure Review
+- Reviewed complete client-provided structure
+- Analyzed page hierarchy, features, and user flow (Client + Admin)
+- Identified improvements for better scalability and UI flow
+
+---
+
+### 🟩 UI Architecture Planning
+- Designed overall UI structure and flow
+- Defined key sections:
+  - Home  
+  - About the Analyst  
+  - Research  
+  - Subscription  
+  - Onboarding  
+  - Investor Charter  
+  - Grievance  
+  - Disclosures  
+  - Admin Panel (Role-Based)
+
+---
+
+### 🟨 Development Estimation
+- Created task-wise time estimation
+- Broke down work into:
+  - Core UI pages
+  - Authentication
+  - Admin panel
+- Planned execution timeline
+
+---
+
+### 🟥 Codebase Understanding (KT Session)
+- Took KT session from senior developer
+- Understood:
+  - Project structure
+  - Code flow and logic
+  - Component hierarchy
+- Gained clarity to continue development
+
+---
+
+## 🎯 Next Steps
+- Start UI implementation
+- Build core pages
+- Follow planned architecture
+- Continue development aligned with existing codebase
+
+---
+
+## 🎨 Design Direction
+- Clean and professional fintech UI
+- Focus on consistency, scalability, and usability
+
+---
+
+## 📈 Goal
+To build a scalable and production-ready UI aligned with client requirements.
+
+---
+
+## 🧑‍💻 Author
+Kamal Pandey
